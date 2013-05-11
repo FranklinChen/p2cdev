@@ -1,5 +1,14 @@
-
 This directory contains "p2c" version 1.21alpha-07.Dec.93, a Pascal to C translator.
+
+Note added by Ernie Cordell <ernie.cordell@gmail.com> on Friday 10 May 2013:  I've combed the WWW for this distribution 
+over and over each time I needed something for this purpose and that was while we still had working search engines 
+capable of finding more than a department store (and by that I mean brick-and-mortar rather than a repository for 
+departments).  The feature I like about this p2c converter is that it can process different dialects of Pascal and 
+produce results for what you intended, rather than what any compiler would have given you.  
+
+Much of what I have put here was developed on a Harvard CS50 environment while following David J. Malan's discussions 
+and looking to the continued tutelage of Alex Allain, so remember that much of what I have preserved here was intended
+for that environment (although it was also built successfully elsewhere). YMMV.  
 
 "p2c"  Copyright 1989, 1990, 1991, 1992, 1993  Free Software Foundation, Inc.
 
